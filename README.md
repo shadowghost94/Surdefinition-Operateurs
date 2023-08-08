@@ -13,3 +13,4 @@ multitudes d'exercices sur la surdéfinition d'opérateurs usuelles en c++:
   *Opérateur d'égalité et non égalité entre deux objets         ( ==, != )  
   *Controle de l'accès aux membres depuis ou vers un pointeur   ( ->, ->*, .* )  
   *Conversion de type                                           ( int, long, short, float, double )  
+#EXERCICES EN LANGUAGE C++ Editions Eyrolles
